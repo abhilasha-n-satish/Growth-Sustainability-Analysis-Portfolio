@@ -36,7 +36,7 @@ Then five senior lawyers left in three quarters, including the firm's top three 
 
 **Page 3: What-If Analysis**
 
-![What-if](What_if.png)
+![What-if](What-if.png)
 
 
 ## Architecture
