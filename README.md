@@ -14,7 +14,9 @@ Then five senior lawyers left in three quarters, including the firm's top three 
 **The report tells this story across three pages:**
 
 **Page 1:** Here is what is happening. Revenue is up, matters are not. The gap between revenue and volume is the story: growth is coming from fewer, more complex, higher-value matters.
+
 **Page 2:** Here is who carries it, and who left. Click through all 15 senior lawyers, see the rainmakers on the curve, and the five departures with what walked out with them.
+
 **Page 3:** Here is what to do next. Use the sliders to model promoting from within versus hiring laterally, and watch complex workload per senior drop back under the healthy line.
 
 
