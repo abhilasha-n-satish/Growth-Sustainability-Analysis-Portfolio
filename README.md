@@ -28,13 +28,13 @@ Then five senior lawyers left in three quarters, including the firm's top three 
 
 ![Overview](Overview.png)
 
-**Page 2: Comparison View**
+**Page 2: Key-Person Risk**
 
-![Comparison View](Comparison%20view.png)
+![Key-person risk](Key-person%20risk.png)
 
 **Page 3: What-If Analysis**
 
-![What-If](What_if.png)
+![What-if](What_if.png)
 
 
 ## Architecture
