@@ -24,7 +24,7 @@ Then five senior lawyers left in three quarters, including the firm's top three 
 
 **Home Page**
 
-![Home](Home.png)
+![Home](Home_New.png)
 
 **Page 1: Overview**
 
